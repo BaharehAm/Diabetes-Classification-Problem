@@ -28,9 +28,9 @@ The results are shown below:
 
 ![image](https://user-images.githubusercontent.com/46126394/193379258-493b9521-cb22-4983-b67e-e4a6f68ddc1c.png)
 
-as it cann be seen from the above figure, both MLP and Logistic Regression classifiers have the
+As it can be seen from the above figure, both MLP and Logistic Regression classifiers have the
 highest average accuracies of around 0.77 on test sets. However, in terms of sensitivity and
-specificity, the MLP maintains a better balance between the two metrics (indicated by blue). Overall,
+specificity, the MLP maintains a better balance between the two metrics. Overall,
 although MLP was slightly better than other classifiers, the performance of all models was
 comparable to each other. Based on the results, the average values of sensitivity and specificity of
 the MLP classifiers were found to be 0.866 and 0.578, respectively. This means that for each 100
